@@ -24,7 +24,7 @@ notes.get('/:note_id', (req, res) => {
     });
 });
 
-// POST Route for a new UX/UI note
+// POST Route for a new note
 notes.post('/', (req, res) => {
   console.log(req.body);
   const { title, text } = req.body;
