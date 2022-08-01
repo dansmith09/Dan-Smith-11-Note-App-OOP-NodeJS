@@ -1,4 +1,4 @@
-# Dan-Smith-11-Team-Profile-Generator-OOP-NodeJS
+# Dan-Smith-11-Note-App-OOP-NodeJS
 
 [![Demo](./public/assets/gif/demo.gif)](https://protected-taiga-81063.herokuapp.com/ "Click here to try for yourself!")
 
